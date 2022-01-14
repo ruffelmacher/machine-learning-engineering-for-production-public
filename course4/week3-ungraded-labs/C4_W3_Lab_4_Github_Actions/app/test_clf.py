@@ -1,7 +1,7 @@
 import pickle
 from main import clf
 
-
+#Comments 2 for GITHUB!!! 
 def test_accuracy():
 
     # Load test data
